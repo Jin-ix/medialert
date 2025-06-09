@@ -14,6 +14,7 @@
 # • Uses an SQLite backend for persistence (production‑ready can swap for Postgres)
 # • Generates interactive charts and live ML training within Streamlit
 # -------------------------------------------------------------
+pip install scikit-learn
 
 import sqlite3
 import json
